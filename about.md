@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/bg.png "Profile Picture"){:.profile}
 
-끝까지 머리박기
+<center><h1>끝까지 머리박기</h1></center>
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
